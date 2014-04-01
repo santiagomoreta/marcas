@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<html>
+ <head>
+ 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+ 	<title>Mundial Brazil 2014</title>
+
+<link rel="stylesheet" href="index2.css">
+
+ </head>
+ <body>
+
+ 	<div id="menuder">
+	 	  	Menu<br>
+		   		<li><a href="#">Porras</a></li>
+			   	<li><a href="#">Simulador </a></li>
+			   	<li><a href="#">option3 </a></li>
+			   	<li><a href="#">option 4</a></li>
+	   </div>
+   <div id="cuerpo">
+   		<div id="titulo">
+  
+        </div>
+        <div id="search">
+  		</div>
+
+		<div class="menudes">
+			<a href="index.html">Inicio</a>
+			<a href="equipos.html">Equipos</a>
+			<a href="grupos.html">Grupos</a>
+			<a href="partidos.html">Partidos</a>
+			<a href="sede.html">Sede</a>
+			<a href="noticias.html">Noticias</a>
+		</div>
+		<div id="galery">
+		</div>	
+		<div id="contenido">
+			<div class="imagen">
+			</div>	
+
+
+		La Copa Mundial de la FIFA Brasil 2014 será la XX edición de la Copa Mundial de Fútbol. Esta versión del torneo se realizará en Brasil entre el 12 de junio y el 13 de julio de 2014, siendo la segunda vez que este certamen deportivo se realiza en Brasil después de la Copa Mundial de Fútbol de 1950, luego de que el presidente de la FIFA, Joseph Blatter, estableciera el criterio de rotación continental. Será la primera vez desde 1978 que una Copa Mundial se realice en América del Sur.
+
+		En 2004, la FIFA eligió a Sudamérica como sede de la Copa Mundial de 2014. Pese al entusiasmo inicial de algunos países, solo Brasil y Colombia presentaron sus candidaturas oficiales antes del cierre del plazo, el 18 de diciembre de 2006. Algunos meses después, Colombia retiró su candidatura, dejando como único postulante a Brasil. El 30 de octubre de 2007, la FIFA designó de manera oficial a Brasil como el país que albergará la Copa del Mundo de Fútbol de 2014. 1
+
+		El ganador del torneo participará en su calidad de campeón del mundo en Copa FIFA Confederaciones 2017, a realizarse en Rusia.
+
+		Como dato destacable, por primera vez en una Copa Mundial de Fútbol, los partidos utilizarán la tecnología que ofrece el balón inteligente, para determinar en jugadas dudosas, si el balón cruzó o no toda la línea de gol. 
+		</div>	
+
+
+
+
+   </div>
+ </body>
+</html>
